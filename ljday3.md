@@ -1,0 +1,2 @@
+<h1> # LJ Code 301 - Day 3 </h1>
+Today we learned how to insert events in jquery. The assignment went pretty well there was nothing we were too stuck on for awhile. They're different elements you have to specify which can seem overwhelming but as long as you're clear on what you are targeting the following code get's easier. I'm excited we learned this because now I can make my portfolio really interactive and boost my chance of finding a job right out of school. 
