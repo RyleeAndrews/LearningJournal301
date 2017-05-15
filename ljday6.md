@@ -1,0 +1,2 @@
+<h1> # LJ Code 301 - Day 6 </h1>
+Today we learned about AJAX which requests data from a server and gets back JSON data. Using AJAX is convenient because you can load a certain part of a page without reloading the whole page therefore you can have just one page and have AJAX requests taking you to where ever you need to be on the page making your website interactive and faster since it doesn't need to reload a whole page worth of data. 
