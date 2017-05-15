@@ -1,0 +1,2 @@
+<h1> # LJ Code 301 - Day 5 </h1>
+Today in class we added to our portfolio making skills by including a new page that allows us to generate a new article. We used handlebars to make our template then we used some json to stringify our blogs information that contained all the keywords for a new object and plugged it into our javascript file that held our blog article information. Learning this I can't believe how easy it is to make a blog template thought it would take time beforehand but learning this you can make one within a day easily. 
