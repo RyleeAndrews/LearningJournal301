@@ -1,0 +1,2 @@
+<h1> # LJ Code 301 - Day 8 </h1>
+Today in class was our first introduction into sql. Sql is a database and used to store data in all types of ways. With sql we can easily find data to add, delete, update, and create. The acronym we use is CRUD. We didn't start making a querie yet we just took most of today understanding what the new code did and what it did in terms of the sql diagram of view, request, querie, results and response. Soon enough we will be sql masters I just know it. 
