@@ -1,0 +1,2 @@
+<h1> # LJ Code 301 - Day 11 </h1>
+Today we learned how to load different parts of the page without ever needing to make new requests. This allows our websites to save tons of time because a new request doesn't need to be loaded. The cool part about learning how to do this is that you can use the arrows in the browser still and you still don't get a new request. From now on this is will be how I do things. Also we were introduced to page.js which allows us to accomplish this. 
