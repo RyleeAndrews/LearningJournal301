@@ -1,0 +1,2 @@
+<h1> # LJ Code 301 - Day 8 </h1>
+Today we learned array methods such as .map, .reduce and .filter. What these array methods do is they deal with taking in an array of strings and returning a new array or set of strings that have been manipulated in some type of way. We used an ifie which is a function that is called right away by invoking it's self. This method saves time and is a lot simpler to read but is hard because there is a lot going on and you can easily make an error. 
