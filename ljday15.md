@@ -1,0 +1,2 @@
+<h1> # LJ Code 301 - Day 15 </h1>
+Today I learned about the API I am using for my group project. The API I am using is the google map api. We are building an app where you can find meetups and events and I will have to use the location out of the google map API to match with my groupmates api to build our app. Nothing new other than the api was learned today since it was spent planning out our project. 
